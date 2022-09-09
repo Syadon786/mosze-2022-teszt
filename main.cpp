@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+	std::cout << "This is where the fun begins!" << std::endl;
     return 0;
 }
